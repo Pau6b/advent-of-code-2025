@@ -5,5 +5,6 @@
 int main() {
     //Day01::Problem1();
     //Day01::Problem2();
-    Day02::Problem1();
+    //Day02::Problem1();
+    Day02::Problem2();
 }
