@@ -5,13 +5,13 @@
             "label": "C/C++: g++.exe build active file",
             "command": "C:\\msys64\\ucrt64\\bin\\g++.exe",
             "args": [
-                "--std=",
-                "c++23",
+                "--std=c++23",
                 "-fdiagnostics-color=always",
                 "-g",
                 "main.cpp",
                 "-o",
-                "advent_of_code.exe"
+                "advent_of_code.exe",
+                "-lstdc++exp"
             ],
             "options": {
                 "cwd": "${workspaceFolder}\\source"
