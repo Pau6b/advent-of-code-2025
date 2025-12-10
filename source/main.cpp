@@ -7,6 +7,7 @@
 #include "Problems/Day06.cpp"
 #include "Problems/Day07.cpp"
 #include "Problems/Day08.cpp"
+#include "Problems/Day09.cpp"
 
 int main() {
     //Day01::Problem1();
@@ -24,5 +25,7 @@ int main() {
     //Day07::Problem1();
     //Day07::Problem2();
     //Day08::Problem1();
-    Day08::Problem2();
+    //Day08::Problem2();
+    Day09::Problem1();
+    //Day09::Problem2();
 }
